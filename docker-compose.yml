@@ -13,7 +13,7 @@ services:
           - '5432:5432'
         volumes:
           - pg-data:/var/lib/postgresql/data:Z
-          - ./sql/create_tables.sql:/docker-entrypoint-initdb.d/setup.sql:Z
+          - ./sql/setup.sql:/docker-entrypoint-initdb.d/setup.sql:Z
     pgadmin:
         image: dpage/pgadmin4
         restart: always
