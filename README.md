@@ -1,4 +1,4 @@
-# Welcome
+# Welcome!
 
 # The Problem
 
@@ -31,7 +31,7 @@ The database has 4 tables:
 | home_team              | VARCHAR   | The home team for the event            |
 | away_team              | VARCHAR   | The away team for the event            |
 | game_start_time        | TIMESTAMP | Start time of the event (EST)          |
-| week_start             | TIMESTAMP | Start time for this week of the season |
+| week_start             | TIMESTAMP | Start time for this week of the season (EST) |
 | week_of_season         | FLOAT     | Week number of the season              |
 
 ### `teams` (`SELECT * FROM teams`) - Data for where the Sportsball teams play
@@ -47,7 +47,7 @@ The database has 4 tables:
 |---------------------------|-----------|---------------------------------------------|
 | user_number (primary_key) | VARCHAR   | Unique identifier for the user              |
 | age                       | FLOAT     | User age in years                           |
-| registration_date         | TIMESTAMP | Date the user registered for the sportsbook |
+| registration_date         | TIMESTAMP | Date the user registered for the sportsbook (EST)|
 | location                  | VARCHAR   | Where the user resides                      |
 
 ### `wagers` (`SELECT * FROM wagers`) - Data on the individual wagers placed on Sportsball games
@@ -60,7 +60,7 @@ The database has 4 tables:
 | wager_amount          | FLOAT     | Amount in USD bet                       |                                                                                                                                                                                                     |
 | outcome_decimal_odds  | FLOAT     | The odds of the bet in decimal format   | https://www.actionnetwork.com/education/decimal-odds                                                                                                                                                |
 | outcome_american_odds | FLOAT     | The odds of the bet in american format  | https://www.actionnetwork.com/education/american-odds#Read                                                                                                                                          |
-| bet_placed_time       | TIMESTAMP | Time the bet was placed                 |                                                                                                                                                                                                     |
+| bet_placed_time       | TIMESTAMP | Time the bet was placed (EST)                |                                                                                                                                                                                                     |
 | bet_status            | VARCHAR   | Whether or not the bet has settled       |                                                                                                                                                                                                     |
 | bet_result            | VARCHAR   | Outcome of the bet                      |                                                                                                                                                                                                     |
 | payout                | FLOAT     | Payout amount in USD if the bet was won |                                                                                                                                                                                                     |
