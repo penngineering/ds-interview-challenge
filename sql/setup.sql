@@ -3,6 +3,8 @@ CREATE TABLE schedule (
   home_team varchar,
   away_team varchar,
   game_start_time timestamp,
+  day_of_week varchar,
+  time_slot varchar,
   week_start timestamp,
   week_of_season float
 );

@@ -1,233 +1,232 @@
-"event_id","home_team","away_team","game_start_time","week_start","week_of_season"
-"21872","Devilish Deer ","Ramblin Rabbits","2019-05-27 20:20:00","2019-05-21 00:00:00",18.0
-"50937","Earnest Eagles","Hungry Harpys","2018-04-02 13:00:00","2018-03-27 00:00:00",10.0
-"21805","Lightning Lions","Hopeful Hens","2019-04-22 13:00:00","2019-04-16 00:00:00",13.0
-"21905","Lucky Leopards","Hopeful Hens","2019-06-10 13:00:00","2019-06-04 00:00:00",20.0
-"21921","Hungry Harpys","Earnest Eagles","2019-06-17 13:00:00","2019-06-11 00:00:00",21.0
-"19070","Devious Dandys","Fleeting Felines","2019-03-04 13:00:00","2019-02-26 00:00:00",6.0
-"51057","Snappy Snakes","Bellicose Bluejays","2018-06-25 13:00:00","2018-06-19 00:00:00",22.0
-"51016","Devious Dandys","Lightning Lions","2018-05-28 13:00:00","2018-05-22 00:00:00",18.0
-"16276","Snappy Snakes","Lightning Lions","2018-07-01 13:05:00","2018-06-26 00:00:00",23.0
-"21595","Hopeful Hens","Lightning Lions","2019-03-18 13:00:00","2019-03-12 00:00:00",8.0
-"21641","Devilish Deer ","Snappy Snakes","2019-04-01 20:20:00","2019-03-26 00:00:00",10.0
-"21618","Snappy Snakes","Devious Dandys","2019-03-25 13:00:00","2019-03-19 00:00:00",9.0
-"21733","Ramblin Rabbits","Terrible Ticks","2019-04-08 16:25:00","2019-04-02 00:00:00",11.0
-"21859","Devious Dandys","Wonder Whales","2019-05-20 13:00:00","2019-05-14 00:00:00",17.0
-"21862","Pirate Poodles","Hopeful Hens","2019-05-20 13:00:00","2019-05-14 00:00:00",17.0
-"63526","Hopeful Hens","Terrible Ticks","2020-03-16 13:00:00","2020-03-10 00:00:00",8.0
-"51011","Bellicose Bluejays","Hungry Harpys","2018-05-28 13:00:00","2018-05-22 00:00:00",18.0
-"21865","Ramblin Rabbits","Intense Iguanas","2019-05-20 16:05:00","2019-05-14 00:00:00",17.0
-"21886","Devilish Deer ","Terrible Ticks","2019-06-03 13:00:00","2019-05-28 00:00:00",19.0
-"21960","Ramblin Rabbits","Devilish Deer ","2019-06-30 16:30:00","2019-06-25 00:00:00",23.0
-"21782","Pirate Poodles","Wonder Whales","2019-04-15 13:00:00","2019-04-09 00:00:00",12.0
-"16555","Pirate Poodles","Bellicose Bluejays","2018-03-05 13:00:00","2018-02-27 00:00:00",6.0
-"16487","Wonder Whales","Ramblin Rabbits","2018-03-23 20:20:00","2018-03-20 00:00:00",9.0
-"21878","Lucky Leopards","Earnest Eagles","2019-05-27 16:25:00","2019-05-21 00:00:00",18.0
-"21874","Hungry Harpys","Intense Iguanas","2019-05-27 13:00:00","2019-05-21 00:00:00",18.0
-"21786","Earnest Eagles","Hungry Harpys","2019-04-15 13:00:00","2019-04-09 00:00:00",12.0
-"88376","Devilish Deer ","Hungry Harpys","2019-07-22 15:00:00","2019-07-16 00:00:00",26.0
-"21625","Ramblin Rabbits","Earnest Eagles","2019-03-25 16:25:00","2019-03-19 00:00:00",9.0
-"48572","Devilish Deer ","Devious Dandys","2018-03-02 20:20:00","2018-02-27 00:00:00",6.0
-"50991","Devious Dandys","Pirate Poodles","2018-05-14 13:00:00","2018-05-08 00:00:00",16.0
-"21634","Lucky Leopards","Ramblin Rabbits","2019-04-01 13:00:00","2019-03-26 00:00:00",10.0
-"21900","Cyclic Cobras","Terrible Ticks","2019-06-11 17:00:00","2019-06-11 00:00:00",21.0
-"63207","Wonder Whales","Earnest Eagles","2020-03-02 13:00:00","2020-02-25 00:00:00",6.0
-"16275","Hopeful Hens","Earnest Eagles","2018-07-02 13:05:00","2018-06-26 00:00:00",23.0
-"21819","Fleeting Felines","Snappy Snakes","2019-04-29 13:00:00","2019-04-23 00:00:00",14.0
-"21631","Devious Dandys","Pirate Poodles","2019-04-01 13:00:00","2019-03-26 00:00:00",10.0
-"48589","Fleeting Felines","Lightning Lions","2018-03-05 13:00:00","2018-02-27 00:00:00",6.0
-"50898","Lucky Leopards","Ramblin Rabbits","2018-03-12 13:00:00","2018-03-06 00:00:00",7.0
-"50911","Pirate Poodles","Terrible Ticks","2018-03-19 13:00:00","2018-03-13 00:00:00",8.0
-"36665","Bellicose Bluejays","Wonder Whales","2018-04-09 16:05:00","2018-04-03 00:00:00",11.0
-"21627","Intense Iguanas","Terrible Ticks","2019-03-26 20:15:00","2019-03-26 00:00:00",10.0
-"55503","Hungry Harpys","Terrible Ticks","2019-07-07 16:30:00","2019-07-02 00:00:00",24.0
-"51029","Snappy Snakes","Lucky Leopards","2018-06-04 20:20:00","2018-05-29 00:00:00",19.0
-"16484","Wonder Whales","Pirate Poodles","2018-05-01 20:15:00","2018-05-01 00:00:00",15.0
-"16489","Wonder Whales","Cyclic Cobras","2018-06-18 13:00:00","2018-06-12 00:00:00",21.0
-"21880","Snappy Snakes","Pirate Poodles","2019-05-28 20:15:00","2019-05-28 00:00:00",19.0
-"51024","Fleeting Felines","Hopeful Hens","2018-06-04 13:00:00","2018-05-29 00:00:00",19.0
-"21952","Bellicose Bluejays","Pirate Poodles","2019-07-01 16:25:00","2019-06-25 00:00:00",23.0
-"21848","Snappy Snakes","Lightning Lions","2019-05-13 13:00:00","2019-05-07 00:00:00",16.0
-"51044","Devious Dandys","Hungry Harpys","2018-06-18 13:00:00","2018-06-12 00:00:00",21.0
-"63287","Ramblin Rabbits","Devious Dandys","2020-03-09 16:25:00","2020-03-03 00:00:00",7.0
-"63273","Devious Dandys","Lightning Lions","2020-03-02 13:00:00","2020-02-25 00:00:00",6.0
-"21842","Intense Iguanas","Lucky Leopards","2019-05-13 20:20:00","2019-05-07 00:00:00",16.0
-"63285","Lucky Leopards","Pirate Poodles","2020-03-09 13:00:00","2020-03-03 00:00:00",7.0
-"51031","Terrible Ticks","Intense Iguanas","2018-06-08 20:20:00","2018-06-05 00:00:00",20.0
-"21576","Earnest Eagles","Devilish Deer ","2019-03-11 20:20:00","2019-03-05 00:00:00",7.0
-"63290","Lightning Lions","Devilish Deer ","2020-03-16 13:00:00","2020-03-10 00:00:00",8.0
-"21597","Devilish Deer ","Intense Iguanas","2019-03-18 13:00:00","2019-03-12 00:00:00",8.0
-"21777","Cyclic Cobras","Ramblin Rabbits","2019-04-12 20:20:00","2019-04-09 00:00:00",12.0
-"71766","Devilish Deer ","Snappy Snakes","2019-07-15 18:30:00","2019-07-09 00:00:00",25.0
-"20016","Fleeting Felines","Bellicose Bluejays","2019-04-08 09:30:00","2019-04-02 00:00:00",11.0
-"21807","Cyclic Cobras","Lucky Leopards","2019-04-22 13:00:00","2019-04-16 00:00:00",13.0
-"16273","Lucky Leopards","Cyclic Cobras","2018-07-02 20:15:00","2018-06-26 00:00:00",23.0
-"16554","Pirate Poodles","Snappy Snakes","2018-06-19 20:15:00","2018-06-19 00:00:00",22.0
-"22843","Bellicose Bluejays","Intense Iguanas","2018-05-07 16:05:00","2018-05-01 00:00:00",15.0
-"51021","Bellicose Bluejays","Devilish Deer ","2018-06-04 13:00:00","2018-05-29 00:00:00",19.0
-"51019","Devilish Deer ","Ramblin Rabbits","2018-05-28 20:20:00","2018-05-22 00:00:00",18.0
-"21797","Intense Iguanas","Pirate Poodles","2019-04-22 16:05:00","2019-04-16 00:00:00",13.0
-"21923","Devilish Deer ","Lucky Leopards","2019-06-17 16:25:00","2019-06-11 00:00:00",21.0
-"21583","Lucky Leopards","Terrible Ticks","2019-03-11 13:00:00","2019-03-05 00:00:00",7.0
-"50933","Devious Dandys","Fleeting Felines","2018-04-02 18:00:00","2018-03-27 00:00:00",10.0
-"19075","Devilish Deer ","Cyclic Cobras","2019-03-04 16:25:00","2019-02-26 00:00:00",6.0
-"21856","Earnest Eagles","Cyclic Cobras","2019-05-20 20:20:00","2019-05-14 00:00:00",17.0
-"21933","Hungry Harpys","Devilish Deer ","2019-06-24 13:00:00","2019-06-18 00:00:00",22.0
-"21943","Lucky Leopards","Cyclic Cobras","2019-06-25 20:15:00","2019-06-25 00:00:00",23.0
-"63523","Cyclic Cobras","Lucky Leopards","2020-03-13 20:15:00","2020-03-10 00:00:00",8.0
-"21955","Earnest Eagles","Lucky Leopards","2019-07-01 13:00:00","2019-06-25 00:00:00",23.0
-"16563","Lightning Lions","Fleeting Felines","2018-06-25 16:25:00","2018-06-19 00:00:00",22.0
-"50924","Hungry Harpys","Fleeting Felines","2018-03-26 18:00:00","2018-03-20 00:00:00",9.0
-"50967","Snappy Snakes","Pirate Poodles","2018-04-23 13:00:00","2018-04-17 00:00:00",13.0
-"51038","Earnest Eagles","Fleeting Felines","2018-06-11 13:00:00","2018-06-05 00:00:00",20.0
-"55501","Devilish Deer ","Lucky Leopards","2019-07-08 20:15:00","2019-07-02 00:00:00",24.0
-"71765","Hopeful Hens","Hungry Harpys","2019-07-14 16:30:00","2019-07-09 00:00:00",25.0
-"63276","Intense Iguanas","Terrible Ticks","2020-03-02 16:25:00","2020-02-25 00:00:00",6.0
-"63510","Hungry Harpys","Bellicose Bluejays","2020-03-20 20:15:00","2020-03-17 00:00:00",9.0
-"22882","Lightning Lions","Wonder Whales","2018-03-19 16:05:00","2018-03-13 00:00:00",8.0
-"21611","Hungry Harpys","Fleeting Felines","2019-03-22 20:20:00","2019-03-19 00:00:00",9.0
-"21931","Pirate Poodles","Fleeting Felines","2019-06-24 13:00:00","2019-06-18 00:00:00",22.0
-"50902","Bellicose Bluejays","Snappy Snakes","2018-03-12 18:00:00","2018-03-06 00:00:00",7.0
-"36501","Snappy Snakes","Devilish Deer ","2018-04-10 17:00:00","2018-04-10 00:00:00",12.0
-"50954","Hungry Harpys","Cyclic Cobras","2018-04-16 13:00:00","2018-04-10 00:00:00",12.0
-"16495","Devilish Deer ","Wonder Whales","2018-04-23 13:00:00","2018-04-17 00:00:00",13.0
-"92211","Lucky Leopards","Earnest Eagles","2018-05-21 13:00:00","2018-05-15 00:00:00",17.0
-"21717","Lightning Lions","Devious Dandys","2019-04-08 13:00:00","2019-04-02 00:00:00",11.0
-"51046","Lucky Leopards","Lightning Lions","2018-06-18 13:00:00","2018-06-12 00:00:00",21.0
-"50931","Devilish Deer ","Terrible Ticks","2018-04-02 13:00:00","2018-03-27 00:00:00",10.0
-"63281","Cyclic Cobras","Wonder Whales","2020-03-09 13:00:00","2020-03-03 00:00:00",7.0
-"48747","Earnest Eagles","Lucky Leopards","2018-04-23 13:00:00","2018-04-17 00:00:00",13.0
-"16488","Wonder Whales","Terrible Ticks","2018-05-28 13:00:00","2018-05-22 00:00:00",18.0
-"21820","Bellicose Bluejays","Devious Dandys","2019-04-29 13:00:00","2019-04-23 00:00:00",14.0
-"51054","Cyclic Cobras","Lucky Leopards","2018-06-25 13:00:00","2018-06-19 00:00:00",22.0
-"50908","Fleeting Felines","Bellicose Bluejays","2018-03-17 01:22:00","2018-03-13 00:00:00",8.0
-"63291","Pirate Poodles","Earnest Eagles","2020-03-16 13:00:00","2020-03-10 00:00:00",8.0
-"21637","Intense Iguanas","Cyclic Cobras","2019-04-01 16:05:00","2019-03-26 00:00:00",10.0
-"55502","Snappy Snakes","Pirate Poodles","2019-07-07 20:15:00","2019-07-02 00:00:00",24.0
-"51058","Devious Dandys","Hopeful Hens","2018-06-25 16:25:00","2018-06-19 00:00:00",22.0
-"81158","Fleeting Felines","Lucky Leopards","2018-05-14 21:39:41","2018-05-08 00:00:00",16.0
-"51056","Hungry Harpys","Earnest Eagles","2018-06-25 13:00:00","2018-06-19 00:00:00",22.0
-"50906","Devious Dandys","Earnest Eagles","2018-03-12 16:25:00","2018-03-06 00:00:00",7.0
-"51026","Terrible Ticks","Lightning Lions","2018-06-04 16:05:00","2018-05-29 00:00:00",19.0
-"22884","Earnest Eagles","Devilish Deer ","2018-03-20 20:15:00","2018-03-20 00:00:00",9.0
-"16560","Devilish Deer ","Pirate Poodles","2018-03-26 16:25:00","2018-03-20 00:00:00",9.0
-"51012","Hopeful Hens","Cyclic Cobras","2018-05-28 13:00:00","2018-05-22 00:00:00",18.0
-"50965","Hungry Harpys","Hopeful Hens","2018-04-23 13:00:00","2018-04-17 00:00:00",13.0
-"50944","Hopeful Hens","Devious Dandys","2018-04-09 13:00:00","2018-04-03 00:00:00",11.0
-"37992","Devilish Deer ","Intense Iguanas","2020-03-06 20:20:00","2020-03-03 00:00:00",7.0
-"21954","Devious Dandys","Hopeful Hens","2019-07-01 13:00:00","2019-06-25 00:00:00",23.0
-"21924","Terrible Ticks","Ramblin Rabbits","2019-06-17 16:25:00","2019-06-11 00:00:00",21.0
-"27557","Pirate Poodles","Ramblin Rabbits","2018-04-09 13:00:00","2018-04-03 00:00:00",11.0
-"21946","Fleeting Felines","Lightning Lions","2019-07-01 13:00:00","2019-06-25 00:00:00",23.0
-"50976","Fleeting Felines","Devious Dandys","2018-04-30 13:00:00","2018-04-24 00:00:00",14.0
-"16557","Lucky Leopards","Earnest Eagles","2018-05-18 20:20:00","2018-05-15 00:00:00",17.0
-"21831","Bellicose Bluejays","Earnest Eagles","2019-05-03 20:20:00","2019-04-30 00:00:00",15.0
-"21832","Wonder Whales","Snappy Snakes","2019-05-06 13:00:00","2019-04-30 00:00:00",15.0
-"21908","Ramblin Rabbits","Hungry Harpys","2019-06-10 16:05:00","2019-06-04 00:00:00",20.0
-"51059","Ramblin Rabbits","Terrible Ticks","2018-06-25 16:25:00","2018-06-19 00:00:00",22.0
-"51045","Intense Iguanas","Ramblin Rabbits","2018-06-18 16:05:00","2018-06-12 00:00:00",21.0
-"33709","Devilish Deer ","Cyclic Cobras","2018-07-09 15:05:00","2018-07-03 00:00:00",24.0
-"21889","Cyclic Cobras","Earnest Eagles","2019-06-03 13:00:00","2019-05-28 00:00:00",19.0
-"21783","Hopeful Hens","Devilish Deer ","2019-04-15 13:00:00","2019-04-09 00:00:00",12.0
-"11951","Lucky Leopards","Cyclic Cobras","2018-07-02 20:15:00","2018-06-26 00:00:00",23.0
-"16492","Pirate Poodles","Wonder Whales","2018-06-25 13:00:00","2018-06-19 00:00:00",22.0
-"21729","Earnest Eagles","Intense Iguanas","2019-04-08 13:00:00","2019-04-02 00:00:00",11.0
-"16559","Lucky Leopards","Cyclic Cobras","2018-04-09 13:00:00","2018-04-03 00:00:00",11.0
-"19079","Terrible Ticks","Earnest Eagles","2019-03-05 20:15:00","2019-03-05 00:00:00",7.0
-"63520","Bellicose Bluejays","Snappy Snakes","2020-03-16 13:00:00","2020-03-10 00:00:00",8.0
-"21898","Bellicose Bluejays","Wonder Whales","2019-06-10 13:00:00","2019-06-04 00:00:00",20.0
-"50985","Terrible Ticks","Ramblin Rabbits","2018-05-07 16:05:00","2018-05-01 00:00:00",15.0
-"50992","Earnest Eagles","Hopeful Hens","2018-05-14 13:00:00","2018-05-08 00:00:00",16.0
-"21703","Earnest Eagles","Lightning Lions","2019-04-02 20:15:00","2019-04-02 00:00:00",11.0
-"21776","Hopeful Hens","Snappy Snakes","2019-04-09 20:15:00","2019-04-09 00:00:00",12.0
-"50899","Hopeful Hens","Fleeting Felines","2018-03-12 13:00:00","2018-03-06 00:00:00",7.0
-"50953","Earnest Eagles","Lucky Leopards","2018-04-06 14:00:00","2018-04-03 00:00:00",11.0
-"21958","Terrible Ticks","Intense Iguanas","2019-07-01 20:20:00","2019-06-25 00:00:00",23.0
-"51002","Snappy Snakes","Intense Iguanas","2018-05-21 13:00:00","2018-05-15 00:00:00",17.0
-"23182","Intense Iguanas","Wonder Whales","2018-05-14 16:05:00","2018-05-08 00:00:00",16.0
-"50966","Cyclic Cobras","Terrible Ticks","2018-04-23 13:00:00","2018-04-17 00:00:00",13.0
-"19077","Pirate Poodles","Bellicose Bluejays","2019-03-04 16:25:00","2019-02-26 00:00:00",6.0
-"50982","Cyclic Cobras","Devious Dandys","2018-05-07 13:00:00","2018-05-01 00:00:00",15.0
-"21605","Terrible Ticks","Bellicose Bluejays","2019-03-18 16:05:00","2019-03-12 00:00:00",8.0
-"21863","Hungry Harpys","Lucky Leopards","2019-05-20 13:00:00","2019-05-14 00:00:00",17.0
-"16486","Wonder Whales","Bellicose Bluejays","2018-05-21 13:00:00","2018-05-15 00:00:00",17.0
-"21869","Devious Dandys","Lightning Lions","2019-05-27 13:00:00","2019-05-21 00:00:00",18.0
-"48718","Hopeful Hens","Lucky Leopards","2018-04-16 13:00:00","2018-04-10 00:00:00",12.0
-"23181","Ramblin Rabbits","Bellicose Bluejays","2018-05-14 16:05:00","2018-05-08 00:00:00",16.0
-"21818","Hungry Harpys","Cyclic Cobras","2019-04-29 13:00:00","2019-04-23 00:00:00",14.0
-"21904","Fleeting Felines","Devious Dandys","2019-06-10 13:00:00","2019-06-04 00:00:00",20.0
-"21580","Bellicose Bluejays","Snappy Snakes","2019-03-11 13:00:00","2019-03-05 00:00:00",7.0
-"50959","Ramblin Rabbits","Devilish Deer ","2018-04-16 16:25:00","2018-04-10 00:00:00",12.0
-"51018","Intense Iguanas","Pirate Poodles","2018-05-28 16:25:00","2018-05-22 00:00:00",18.0
-"21598","Lucky Leopards","Hungry Harpys","2019-03-18 13:00:00","2019-03-12 00:00:00",8.0
-"21578","Wonder Whales","Pirate Poodles","2019-03-11 13:00:00","2019-03-05 00:00:00",7.0
-"11950","Hopeful Hens","Earnest Eagles","2018-07-02 13:06:00","2018-06-26 00:00:00",23.0
-"50980","Hopeful Hens","Lightning Lions","2018-05-04 20:20:00","2018-05-01 00:00:00",15.0
-"50999","Terrible Ticks","Devilish Deer ","2018-05-14 20:20:00","2018-05-08 00:00:00",16.0
-"16562","Lightning Lions","Hopeful Hens","2018-05-21 13:00:00","2018-05-15 00:00:00",17.0
-"63280","Earnest Eagles","Bellicose Bluejays","2020-03-09 13:00:00","2020-03-03 00:00:00",7.0
-"16558","Lucky Leopards","Hungry Harpys","2018-05-07 16:25:00","2018-05-01 00:00:00",15.0
-"21897","Intense Iguanas","Devilish Deer ","2019-06-07 20:20:00","2019-06-04 00:00:00",20.0
-"48590","Hungry Harpys","Intense Iguanas","2018-03-05 16:05:00","2018-02-27 00:00:00",6.0
-"51003","Fleeting Felines","Cyclic Cobras","2018-05-21 13:00:00","2018-05-15 00:00:00",17.0
-"21839","Terrible Ticks","Hungry Harpys","2019-05-13 16:05:00","2019-05-07 00:00:00",16.0
-"21902","Lightning Lions","Pirate Poodles","2019-06-09 20:15:00","2019-06-04 00:00:00",20.0
-"21938","Intense Iguanas","Ramblin Rabbits","2019-06-24 16:05:00","2019-06-18 00:00:00",22.0
-"21930","Hopeful Hens","Bellicose Bluejays","2019-06-24 13:00:00","2019-06-18 00:00:00",22.0
-"21836","Lightning Lions","Fleeting Felines","2019-05-06 13:00:00","2019-04-30 00:00:00",15.0
-"27385","Hopeful Hens","Snappy Snakes","2018-04-04 19:00:00","2018-04-03 00:00:00",11.0
-"51041","Hungry Harpys","Lucky Leopards","2018-06-12 20:15:00","2018-06-12 00:00:00",21.0
-"21604","Ramblin Rabbits","Wonder Whales","2019-03-18 16:05:00","2019-03-12 00:00:00",8.0
-"51034","Bellicose Bluejays","Pirate Poodles","2018-06-11 13:00:00","2018-06-05 00:00:00",20.0
-"16561","Lightning Lions","Devious Dandys","2018-06-11 13:00:00","2018-06-05 00:00:00",20.0
-"51030","Cyclic Cobras","Earnest Eagles","2018-06-05 20:15:00","2018-06-05 00:00:00",20.0
-"19072","Snappy Snakes","Lucky Leopards","2019-03-04 13:00:00","2019-02-26 00:00:00",6.0
-"50897","Cyclic Cobras","Hungry Harpys","2018-03-10 01:22:39","2018-03-06 00:00:00",7.0
-"50948","Ramblin Rabbits","Bellicose Bluejays","2018-04-03 00:00:00","2018-04-03 00:00:00",11.0
-"51055","Devilish Deer ","Intense Iguanas","2018-06-25 16:25:00","2018-06-19 00:00:00",22.0
-"48588","Earnest Eagles","Cyclic Cobras","2018-03-05 13:00:00","2018-02-27 00:00:00",6.0
-"48593","Ramblin Rabbits","Hopeful Hens","2018-03-06 22:20:00","2018-03-06 00:00:00",7.0
-"16485","Wonder Whales","Snappy Snakes","2018-04-16 13:00:00","2018-04-10 00:00:00",12.0
-"79803","Ramblin Rabbits","Intense Iguanas","2018-04-23 16:05:00","2018-04-17 00:00:00",13.0
-"50973","Lightning Lions","Earnest Eagles","2018-04-30 13:00:00","2018-04-24 00:00:00",14.0
-"54769","Devilish Deer ","Snappy Snakes","2018-07-16 18:40:00","2018-07-10 00:00:00",25.0
-"21932","Lightning Lions","Terrible Ticks","2019-06-24 13:00:00","2019-06-18 00:00:00",22.0
-"21956","Snappy Snakes","Wonder Whales","2019-07-01 16:25:00","2019-06-25 00:00:00",23.0
-"48719","Intense Iguanas","Fleeting Felines","2018-04-16 16:25:00","2018-04-10 00:00:00",12.0
-"50988","Pirate Poodles","Earnest Eagles","2018-05-07 20:20:00","2018-05-01 00:00:00",15.0
-"54307","Snappy Snakes","Hopeful Hens","2020-03-10 19:15:00","2020-03-10 00:00:00",8.0
-"21636","Fleeting Felines","Hopeful Hens","2019-04-01 13:00:00","2019-03-26 00:00:00",10.0
-"21585","Cyclic Cobras","Devious Dandys","2019-03-11 13:00:00","2019-03-05 00:00:00",7.0
-"21846","Wonder Whales","Bellicose Bluejays","2019-05-13 13:00:00","2019-05-07 00:00:00",16.0
-"21920","Devious Dandys","Intense Iguanas","2019-06-17 13:00:00","2019-06-11 00:00:00",21.0
-"11954","Snappy Snakes","Lightning Lions","2018-07-01 13:05:00","2018-06-26 00:00:00",23.0
-"21804","Wonder Whales","Hungry Harpys","2019-04-22 13:00:00","2019-04-16 00:00:00",13.0
-"21851","Hopeful Hens","Devious Dandys","2019-05-13 13:00:00","2019-05-07 00:00:00",16.0
-"50994","Fleeting Felines","Lucky Leopards","2018-05-14 13:00:00","2018-05-08 00:00:00",16.0
-"21916","Pirate Poodles","Snappy Snakes","2019-06-17 13:00:00","2019-06-11 00:00:00",21.0
-"63284","Fleeting Felines","Lightning Lions","2020-03-09 13:00:00","2020-03-03 00:00:00",7.0
-"21918","Wonder Whales","Fleeting Felines","2019-06-17 13:00:00","2019-06-11 00:00:00",21.0
-"64623","Terrible Ticks","Bellicose Bluejays","2018-06-17 20:15:00","2018-06-12 00:00:00",21.0
-"21612","Wonder Whales","Hopeful Hens","2019-03-25 13:00:00","2019-03-19 00:00:00",9.0
-"21813","Lightning Lions","Wonder Whales","2019-04-26 20:20:00","2019-04-23 00:00:00",14.0
-"51039","Ramblin Rabbits","Snappy Snakes","2018-06-10 16:30:00","2018-06-05 00:00:00",20.0
-"50977","Intense Iguanas","Terrible Ticks","2018-04-30 16:05:00","2018-04-24 00:00:00",14.0
-"33708","Snappy Snakes","Earnest Eagles","2018-07-08 20:15:00","2018-07-03 00:00:00",24.0
-"63530","Wonder Whales","Hungry Harpys","2020-03-16 13:00:00","2020-03-10 00:00:00",8.0
-"16493","Snappy Snakes","Wonder Whales","2018-03-05 13:00:00","2018-02-27 00:00:00",6.0
-"50912","Lucky Leopards","Devious Dandys","2018-03-19 13:00:00","2018-03-13 00:00:00",8.0
-"21957","Cyclic Cobras","Hungry Harpys","2019-07-01 13:00:00","2019-06-25 00:00:00",23.0
-"63271","Hungry Harpys","Lucky Leopards","2020-03-02 13:00:00","2020-02-25 00:00:00",6.0
-"63209","Bellicose Bluejays","Pirate Poodles","2020-03-02 13:00:00","2020-02-25 00:00:00",6.0
-"50905","Intense Iguanas","Devilish Deer ","2018-03-12 16:25:00","2018-03-06 00:00:00",7.0
-"50928","Terrible Ticks","Snappy Snakes","2018-03-26 16:25:00","2018-03-20 00:00:00",9.0
-"50927","Hopeful Hens","Lucky Leopards","2018-03-23 18:00:00","2018-03-20 00:00:00",9.0
-"21796","Snappy Snakes","Bellicose Bluejays","2019-04-22 13:00:00","2019-04-16 00:00:00",13.0
-"21884","Hopeful Hens","Fleeting Felines","2019-06-03 13:00:00","2019-05-28 00:00:00",19.0
-"63528","Intense Iguanas","Fleeting Felines","2020-03-16 16:05:00","2020-03-10 00:00:00",8.0
-"21838","Pirate Poodles","Cyclic Cobras","2019-05-06 13:00:00","2019-04-30 00:00:00",15.0
-"21829","Terrible Ticks","Devilish Deer ","2019-05-06 20:20:00","2019-04-30 00:00:00",15.0
-"21579","Fleeting Felines","Ramblin Rabbits","2019-03-11 13:00:00","2019-03-05 00:00:00",7.0
-"21619","Bellicose Bluejays","Lightning Lions","2019-03-25 13:00:00","2019-03-19 00:00:00",9.0
-"50939","Cyclic Cobras","Lightning Lions","2018-04-02 21:25:00","2018-03-27 00:00:00",10.0
-"50946","Lightning Lions","Hungry Harpys","2018-04-09 13:00:00","2018-04-03 00:00:00",11.0
+"event_id","home_team","away_team","game_start_time","day_of_week","time_slot","week_start","week_of_season"
+"48747","Earnest Eagles","Lucky Leopards","2018-04-23 13:00:00","Monday   ","mon_early","2018-04-17 00:00:00",13.0
+"63207","Wonder Whales","Earnest Eagles","2020-03-02 13:00:00","Monday   ","mon_early","2020-02-25 00:00:00",6.0
+"21862","Pirate Poodles","Hopeful Hens","2019-05-20 13:00:00","Monday   ","mon_early","2019-05-14 00:00:00",17.0
+"21923","Devilish Deer ","Lucky Leopards","2019-06-17 16:25:00","Monday   ","mon_mid","2019-06-11 00:00:00",21.0
+"21612","Wonder Whales","Hopeful Hens","2019-03-25 13:00:00","Monday   ","mon_early","2019-03-19 00:00:00",9.0
+"51057","Snappy Snakes","Bellicose Bluejays","2018-06-25 13:00:00","Monday   ","mon_early","2018-06-19 00:00:00",22.0
+"71765","Hopeful Hens","Hungry Harpys","2019-07-14 16:30:00","Sunday   ","sun","2019-07-09 00:00:00",25.0
+"16554","Pirate Poodles","Snappy Snakes","2018-06-19 20:15:00","Tuesday  ","tues","2018-06-19 00:00:00",22.0
+"21872","Devilish Deer ","Ramblin Rabbits","2019-05-27 20:20:00","Monday   ","mon_late","2019-05-21 00:00:00",18.0
+"21884","Hopeful Hens","Fleeting Felines","2019-06-03 13:00:00","Monday   ","mon_early","2019-05-28 00:00:00",19.0
+"63523","Cyclic Cobras","Lucky Leopards","2020-03-13 20:15:00","Friday   ","fri","2020-03-10 00:00:00",8.0
+"20016","Fleeting Felines","Bellicose Bluejays","2019-04-08 09:30:00","Monday   ","mon_early","2019-04-02 00:00:00",11.0
+"51002","Snappy Snakes","Intense Iguanas","2018-05-21 13:00:00","Monday   ","mon_early","2018-05-15 00:00:00",17.0
+"50911","Pirate Poodles","Terrible Ticks","2018-03-19 13:00:00","Monday   ","mon_early","2018-03-13 00:00:00",8.0
+"50898","Lucky Leopards","Ramblin Rabbits","2018-03-12 13:00:00","Monday   ","mon_early","2018-03-06 00:00:00",7.0
+"50965","Hungry Harpys","Hopeful Hens","2018-04-23 13:00:00","Monday   ","mon_early","2018-04-17 00:00:00",13.0
+"50991","Devious Dandys","Pirate Poodles","2018-05-14 13:00:00","Monday   ","mon_early","2018-05-08 00:00:00",16.0
+"21863","Hungry Harpys","Lucky Leopards","2019-05-20 13:00:00","Monday   ","mon_early","2019-05-14 00:00:00",17.0
+"79803","Ramblin Rabbits","Intense Iguanas","2018-04-23 16:05:00","Monday   ","mon_mid","2018-04-17 00:00:00",13.0
+"16492","Pirate Poodles","Wonder Whales","2018-06-25 13:00:00","Monday   ","mon_early","2018-06-19 00:00:00",22.0
+"21859","Devious Dandys","Wonder Whales","2019-05-20 13:00:00","Monday   ","mon_early","2019-05-14 00:00:00",17.0
+"50959","Ramblin Rabbits","Devilish Deer ","2018-04-16 16:25:00","Monday   ","mon_mid","2018-04-10 00:00:00",12.0
+"55502","Snappy Snakes","Pirate Poodles","2019-07-07 20:15:00","Sunday   ","sun","2019-07-02 00:00:00",24.0
+"21813","Lightning Lions","Wonder Whales","2019-04-26 20:20:00","Friday   ","fri","2019-04-23 00:00:00",14.0
+"54769","Devilish Deer ","Snappy Snakes","2018-07-16 18:40:00","Monday   ","mon_mid","2018-07-10 00:00:00",25.0
+"51019","Devilish Deer ","Ramblin Rabbits","2018-05-28 20:20:00","Monday   ","mon_late","2018-05-22 00:00:00",18.0
+"21918","Wonder Whales","Fleeting Felines","2019-06-17 13:00:00","Monday   ","mon_early","2019-06-11 00:00:00",21.0
+"21578","Wonder Whales","Pirate Poodles","2019-03-11 13:00:00","Monday   ","mon_early","2019-03-05 00:00:00",7.0
+"21869","Devious Dandys","Lightning Lions","2019-05-27 13:00:00","Monday   ","mon_early","2019-05-21 00:00:00",18.0
+"21729","Earnest Eagles","Intense Iguanas","2019-04-08 13:00:00","Monday   ","mon_early","2019-04-02 00:00:00",11.0
+"21631","Devious Dandys","Pirate Poodles","2019-04-01 13:00:00","Monday   ","mon_early","2019-03-26 00:00:00",10.0
+"63271","Hungry Harpys","Lucky Leopards","2020-03-02 13:00:00","Monday   ","mon_early","2020-02-25 00:00:00",6.0
+"36501","Snappy Snakes","Devilish Deer ","2018-04-10 17:00:00","Tuesday  ","tues","2018-04-10 00:00:00",12.0
+"21776","Hopeful Hens","Snappy Snakes","2019-04-09 20:15:00","Tuesday  ","tues","2019-04-09 00:00:00",12.0
+"54307","Snappy Snakes","Hopeful Hens","2020-03-10 19:15:00","Tuesday  ","tues","2020-03-10 00:00:00",8.0
+"21943","Lucky Leopards","Cyclic Cobras","2019-06-25 20:15:00","Tuesday  ","tues","2019-06-25 00:00:00",23.0
+"50924","Hungry Harpys","Fleeting Felines","2018-03-26 18:00:00","Monday   ","mon_mid","2018-03-20 00:00:00",9.0
+"21717","Lightning Lions","Devious Dandys","2019-04-08 13:00:00","Monday   ","mon_early","2019-04-02 00:00:00",11.0
+"19079","Terrible Ticks","Earnest Eagles","2019-03-05 20:15:00","Tuesday  ","tues","2019-03-05 00:00:00",7.0
+"50977","Intense Iguanas","Terrible Ticks","2018-04-30 16:05:00","Monday   ","mon_mid","2018-04-24 00:00:00",14.0
+"33709","Devilish Deer ","Cyclic Cobras","2018-07-09 15:05:00","Monday   ","mon_mid","2018-07-03 00:00:00",24.0
+"21930","Hopeful Hens","Bellicose Bluejays","2019-06-24 13:00:00","Monday   ","mon_early","2019-06-18 00:00:00",22.0
+"51055","Devilish Deer ","Intense Iguanas","2018-06-25 16:25:00","Monday   ","mon_mid","2018-06-19 00:00:00",22.0
+"92211","Lucky Leopards","Earnest Eagles","2018-05-21 13:00:00","Monday   ","mon_early","2018-05-15 00:00:00",17.0
+"21836","Lightning Lions","Fleeting Felines","2019-05-06 13:00:00","Monday   ","mon_early","2019-04-30 00:00:00",15.0
+"16561","Lightning Lions","Devious Dandys","2018-06-11 13:00:00","Monday   ","mon_early","2018-06-05 00:00:00",20.0
+"21848","Snappy Snakes","Lightning Lions","2019-05-13 13:00:00","Monday   ","mon_early","2019-05-07 00:00:00",16.0
+"50999","Terrible Ticks","Devilish Deer ","2018-05-14 20:20:00","Monday   ","mon_late","2018-05-08 00:00:00",16.0
+"21874","Hungry Harpys","Intense Iguanas","2019-05-27 13:00:00","Monday   ","mon_early","2019-05-21 00:00:00",18.0
+"50985","Terrible Ticks","Ramblin Rabbits","2018-05-07 16:05:00","Monday   ","mon_mid","2018-05-01 00:00:00",15.0
+"81158","Fleeting Felines","Lucky Leopards","2018-05-14 21:39:41","Monday   ","mon_late","2018-05-08 00:00:00",16.0
+"21579","Fleeting Felines","Ramblin Rabbits","2019-03-11 13:00:00","Monday   ","mon_early","2019-03-05 00:00:00",7.0
+"21878","Lucky Leopards","Earnest Eagles","2019-05-27 16:25:00","Monday   ","mon_mid","2019-05-21 00:00:00",18.0
+"63528","Intense Iguanas","Fleeting Felines","2020-03-16 16:05:00","Monday   ","mon_mid","2020-03-10 00:00:00",8.0
+"50953","Earnest Eagles","Lucky Leopards","2018-04-06 14:00:00","Friday   ","fri","2018-04-03 00:00:00",11.0
+"21954","Devious Dandys","Hopeful Hens","2019-07-01 13:00:00","Monday   ","mon_early","2019-06-25 00:00:00",23.0
+"50992","Earnest Eagles","Hopeful Hens","2018-05-14 13:00:00","Monday   ","mon_early","2018-05-08 00:00:00",16.0
+"16493","Snappy Snakes","Wonder Whales","2018-03-05 13:00:00","Monday   ","mon_early","2018-02-27 00:00:00",6.0
+"21838","Pirate Poodles","Cyclic Cobras","2019-05-06 13:00:00","Monday   ","mon_early","2019-04-30 00:00:00",15.0
+"21580","Bellicose Bluejays","Snappy Snakes","2019-03-11 13:00:00","Monday   ","mon_early","2019-03-05 00:00:00",7.0
+"21886","Devilish Deer ","Terrible Ticks","2019-06-03 13:00:00","Monday   ","mon_early","2019-05-28 00:00:00",19.0
+"50927","Hopeful Hens","Lucky Leopards","2018-03-23 18:00:00","Friday   ","fri","2018-03-20 00:00:00",9.0
+"21625","Ramblin Rabbits","Earnest Eagles","2019-03-25 16:25:00","Monday   ","mon_mid","2019-03-19 00:00:00",9.0
+"16559","Lucky Leopards","Cyclic Cobras","2018-04-09 13:00:00","Monday   ","mon_early","2018-04-03 00:00:00",11.0
+"50912","Lucky Leopards","Devious Dandys","2018-03-19 13:00:00","Monday   ","mon_early","2018-03-13 00:00:00",8.0
+"21956","Snappy Snakes","Wonder Whales","2019-07-01 16:25:00","Monday   ","mon_mid","2019-06-25 00:00:00",23.0
+"21619","Bellicose Bluejays","Lightning Lions","2019-03-25 13:00:00","Monday   ","mon_early","2019-03-19 00:00:00",9.0
+"48593","Ramblin Rabbits","Hopeful Hens","2018-03-06 22:20:00","Tuesday  ","tues","2018-03-06 00:00:00",7.0
+"50982","Cyclic Cobras","Devious Dandys","2018-05-07 13:00:00","Monday   ","mon_early","2018-05-01 00:00:00",15.0
+"16563","Lightning Lions","Fleeting Felines","2018-06-25 16:25:00","Monday   ","mon_mid","2018-06-19 00:00:00",22.0
+"21634","Lucky Leopards","Ramblin Rabbits","2019-04-01 13:00:00","Monday   ","mon_early","2019-03-26 00:00:00",10.0
+"51034","Bellicose Bluejays","Pirate Poodles","2018-06-11 13:00:00","Monday   ","mon_early","2018-06-05 00:00:00",20.0
+"16557","Lucky Leopards","Earnest Eagles","2018-05-18 20:20:00","Friday   ","fri","2018-05-15 00:00:00",17.0
+"21931","Pirate Poodles","Fleeting Felines","2019-06-24 13:00:00","Monday   ","mon_early","2019-06-18 00:00:00",22.0
+"16560","Devilish Deer ","Pirate Poodles","2018-03-26 16:25:00","Monday   ","mon_mid","2018-03-20 00:00:00",9.0
+"48572","Devilish Deer ","Devious Dandys","2018-03-02 20:20:00","Friday   ","fri","2018-02-27 00:00:00",6.0
+"21952","Bellicose Bluejays","Pirate Poodles","2019-07-01 16:25:00","Monday   ","mon_mid","2019-06-25 00:00:00",23.0
+"21842","Intense Iguanas","Lucky Leopards","2019-05-13 20:20:00","Monday   ","mon_late","2019-05-07 00:00:00",16.0
+"21865","Ramblin Rabbits","Intense Iguanas","2019-05-20 16:05:00","Monday   ","mon_mid","2019-05-14 00:00:00",17.0
+"50908","Fleeting Felines","Bellicose Bluejays","2018-03-17 01:22:00","Saturday ","odd_days","2018-03-13 00:00:00",8.0
+"51031","Terrible Ticks","Intense Iguanas","2018-06-08 20:20:00","Friday   ","fri","2018-06-05 00:00:00",20.0
+"21796","Snappy Snakes","Bellicose Bluejays","2019-04-22 13:00:00","Monday   ","mon_early","2019-04-16 00:00:00",13.0
+"21831","Bellicose Bluejays","Earnest Eagles","2019-05-03 20:20:00","Friday   ","fri","2019-04-30 00:00:00",15.0
+"63284","Fleeting Felines","Lightning Lions","2020-03-09 13:00:00","Monday   ","mon_early","2020-03-03 00:00:00",7.0
+"21618","Snappy Snakes","Devious Dandys","2019-03-25 13:00:00","Monday   ","mon_early","2019-03-19 00:00:00",9.0
+"51003","Fleeting Felines","Cyclic Cobras","2018-05-21 13:00:00","Monday   ","mon_early","2018-05-15 00:00:00",17.0
+"21585","Cyclic Cobras","Devious Dandys","2019-03-11 13:00:00","Monday   ","mon_early","2019-03-05 00:00:00",7.0
+"50948","Ramblin Rabbits","Bellicose Bluejays","2018-04-03 00:00:00","Tuesday  ","tues","2018-04-03 00:00:00",11.0
+"19070","Devious Dandys","Fleeting Felines","2019-03-04 13:00:00","Monday   ","mon_early","2019-02-26 00:00:00",6.0
+"50905","Intense Iguanas","Devilish Deer ","2018-03-12 16:25:00","Monday   ","mon_mid","2018-03-06 00:00:00",7.0
+"21832","Wonder Whales","Snappy Snakes","2019-05-06 13:00:00","Monday   ","mon_early","2019-04-30 00:00:00",15.0
+"21598","Lucky Leopards","Hungry Harpys","2019-03-18 13:00:00","Monday   ","mon_early","2019-03-12 00:00:00",8.0
+"19075","Devilish Deer ","Cyclic Cobras","2019-03-04 16:25:00","Monday   ","mon_mid","2019-02-26 00:00:00",6.0
+"21856","Earnest Eagles","Cyclic Cobras","2019-05-20 20:20:00","Monday   ","mon_late","2019-05-14 00:00:00",17.0
+"51018","Intense Iguanas","Pirate Poodles","2018-05-28 16:25:00","Monday   ","mon_mid","2018-05-22 00:00:00",18.0
+"21920","Devious Dandys","Intense Iguanas","2019-06-17 13:00:00","Monday   ","mon_early","2019-06-11 00:00:00",21.0
+"63281","Cyclic Cobras","Wonder Whales","2020-03-09 13:00:00","Monday   ","mon_early","2020-03-03 00:00:00",7.0
+"50902","Bellicose Bluejays","Snappy Snakes","2018-03-12 18:00:00","Monday   ","mon_mid","2018-03-06 00:00:00",7.0
+"50980","Hopeful Hens","Lightning Lions","2018-05-04 20:20:00","Friday   ","fri","2018-05-01 00:00:00",15.0
+"21932","Lightning Lions","Terrible Ticks","2019-06-24 13:00:00","Monday   ","mon_early","2019-06-18 00:00:00",22.0
+"11954","Snappy Snakes","Lightning Lions","2018-07-01 13:05:00","Sunday   ","sun","2018-06-26 00:00:00",23.0
+"51046","Lucky Leopards","Lightning Lions","2018-06-18 13:00:00","Monday   ","mon_early","2018-06-12 00:00:00",21.0
+"51012","Hopeful Hens","Cyclic Cobras","2018-05-28 13:00:00","Monday   ","mon_early","2018-05-22 00:00:00",18.0
+"21960","Ramblin Rabbits","Devilish Deer ","2019-06-30 16:30:00","Sunday   ","sun","2019-06-25 00:00:00",23.0
+"21782","Pirate Poodles","Wonder Whales","2019-04-15 13:00:00","Monday   ","mon_early","2019-04-09 00:00:00",12.0
+"48590","Hungry Harpys","Intense Iguanas","2018-03-05 16:05:00","Monday   ","mon_mid","2018-02-27 00:00:00",6.0
+"21897","Intense Iguanas","Devilish Deer ","2019-06-07 20:20:00","Friday   ","fri","2019-06-04 00:00:00",20.0
+"16562","Lightning Lions","Hopeful Hens","2018-05-21 13:00:00","Monday   ","mon_early","2018-05-15 00:00:00",17.0
+"50946","Lightning Lions","Hungry Harpys","2018-04-09 13:00:00","Monday   ","mon_early","2018-04-03 00:00:00",11.0
+"11951","Lucky Leopards","Cyclic Cobras","2018-07-02 20:15:00","Monday   ","mon_late","2018-06-26 00:00:00",23.0
+"51021","Bellicose Bluejays","Devilish Deer ","2018-06-04 13:00:00","Monday   ","mon_early","2018-05-29 00:00:00",19.0
+"21641","Devilish Deer ","Snappy Snakes","2019-04-01 20:20:00","Monday   ","mon_late","2019-03-26 00:00:00",10.0
+"19072","Snappy Snakes","Lucky Leopards","2019-03-04 13:00:00","Monday   ","mon_early","2019-02-26 00:00:00",6.0
+"19077","Pirate Poodles","Bellicose Bluejays","2019-03-04 16:25:00","Monday   ","mon_mid","2019-02-26 00:00:00",6.0
+"21804","Wonder Whales","Hungry Harpys","2019-04-22 13:00:00","Monday   ","mon_early","2019-04-16 00:00:00",13.0
+"21957","Cyclic Cobras","Hungry Harpys","2019-07-01 13:00:00","Monday   ","mon_early","2019-06-25 00:00:00",23.0
+"48719","Intense Iguanas","Fleeting Felines","2018-04-16 16:25:00","Monday   ","mon_mid","2018-04-10 00:00:00",12.0
+"11950","Hopeful Hens","Earnest Eagles","2018-07-02 13:06:00","Monday   ","mon_early","2018-06-26 00:00:00",23.0
+"50897","Cyclic Cobras","Hungry Harpys","2018-03-10 01:22:39","Saturday ","odd_days","2018-03-06 00:00:00",7.0
+"63291","Pirate Poodles","Earnest Eagles","2020-03-16 13:00:00","Monday   ","mon_early","2020-03-10 00:00:00",8.0
+"51054","Cyclic Cobras","Lucky Leopards","2018-06-25 13:00:00","Monday   ","mon_early","2018-06-19 00:00:00",22.0
+"21819","Fleeting Felines","Snappy Snakes","2019-04-29 13:00:00","Monday   ","mon_early","2019-04-23 00:00:00",14.0
+"21905","Lucky Leopards","Hopeful Hens","2019-06-10 13:00:00","Monday   ","mon_early","2019-06-04 00:00:00",20.0
+"50944","Hopeful Hens","Devious Dandys","2018-04-09 13:00:00","Monday   ","mon_early","2018-04-03 00:00:00",11.0
+"23182","Intense Iguanas","Wonder Whales","2018-05-14 16:05:00","Monday   ","mon_mid","2018-05-08 00:00:00",16.0
+"21595","Hopeful Hens","Lightning Lions","2019-03-18 13:00:00","Monday   ","mon_early","2019-03-12 00:00:00",8.0
+"21807","Cyclic Cobras","Lucky Leopards","2019-04-22 13:00:00","Monday   ","mon_early","2019-04-16 00:00:00",13.0
+"21636","Fleeting Felines","Hopeful Hens","2019-04-01 13:00:00","Monday   ","mon_early","2019-03-26 00:00:00",10.0
+"36665","Bellicose Bluejays","Wonder Whales","2018-04-09 16:05:00","Monday   ","mon_mid","2018-04-03 00:00:00",11.0
+"16555","Pirate Poodles","Bellicose Bluejays","2018-03-05 13:00:00","Monday   ","mon_early","2018-02-27 00:00:00",6.0
+"16558","Lucky Leopards","Hungry Harpys","2018-05-07 16:25:00","Monday   ","mon_mid","2018-05-01 00:00:00",15.0
+"16485","Wonder Whales","Snappy Snakes","2018-04-16 13:00:00","Monday   ","mon_early","2018-04-10 00:00:00",12.0
+"71766","Devilish Deer ","Snappy Snakes","2019-07-15 18:30:00","Monday   ","mon_mid","2019-07-09 00:00:00",25.0
+"27557","Pirate Poodles","Ramblin Rabbits","2018-04-09 13:00:00","Monday   ","mon_early","2018-04-03 00:00:00",11.0
+"21851","Hopeful Hens","Devious Dandys","2019-05-13 13:00:00","Monday   ","mon_early","2019-05-07 00:00:00",16.0
+"63276","Intense Iguanas","Terrible Ticks","2020-03-02 16:25:00","Monday   ","mon_mid","2020-02-25 00:00:00",6.0
+"51058","Devious Dandys","Hopeful Hens","2018-06-25 16:25:00","Monday   ","mon_mid","2018-06-19 00:00:00",22.0
+"16495","Devilish Deer ","Wonder Whales","2018-04-23 13:00:00","Monday   ","mon_early","2018-04-17 00:00:00",13.0
+"21889","Cyclic Cobras","Earnest Eagles","2019-06-03 13:00:00","Monday   ","mon_early","2019-05-28 00:00:00",19.0
+"63280","Earnest Eagles","Bellicose Bluejays","2020-03-09 13:00:00","Monday   ","mon_early","2020-03-03 00:00:00",7.0
+"48589","Fleeting Felines","Lightning Lions","2018-03-05 13:00:00","Monday   ","mon_early","2018-02-27 00:00:00",6.0
+"22843","Bellicose Bluejays","Intense Iguanas","2018-05-07 16:05:00","Monday   ","mon_mid","2018-05-01 00:00:00",15.0
+"21733","Ramblin Rabbits","Terrible Ticks","2019-04-08 16:25:00","Monday   ","mon_mid","2019-04-02 00:00:00",11.0
+"21818","Hungry Harpys","Cyclic Cobras","2019-04-29 13:00:00","Monday   ","mon_early","2019-04-23 00:00:00",14.0
+"50967","Snappy Snakes","Pirate Poodles","2018-04-23 13:00:00","Monday   ","mon_early","2018-04-17 00:00:00",13.0
+"55501","Devilish Deer ","Lucky Leopards","2019-07-08 20:15:00","Monday   ","mon_late","2019-07-02 00:00:00",24.0
+"37992","Devilish Deer ","Intense Iguanas","2020-03-06 20:15:46","Friday   ","fri","2020-03-03 00:00:00",7.0
+"51029","Snappy Snakes","Lucky Leopards","2018-06-04 20:20:00","Monday   ","mon_late","2018-05-29 00:00:00",19.0
+"51030","Cyclic Cobras","Earnest Eagles","2018-06-05 20:15:00","Tuesday  ","tues","2018-06-05 00:00:00",20.0
+"51059","Ramblin Rabbits","Terrible Ticks","2018-06-25 16:25:00","Monday   ","mon_mid","2018-06-19 00:00:00",22.0
+"63520","Bellicose Bluejays","Snappy Snakes","2020-03-16 13:00:00","Monday   ","mon_early","2020-03-10 00:00:00",8.0
+"63526","Hopeful Hens","Terrible Ticks","2020-03-16 13:00:00","Monday   ","mon_early","2020-03-10 00:00:00",8.0
+"48588","Earnest Eagles","Cyclic Cobras","2018-03-05 13:00:00","Monday   ","mon_early","2018-02-27 00:00:00",6.0
+"50973","Lightning Lions","Earnest Eagles","2018-04-30 13:00:00","Monday   ","mon_early","2018-04-24 00:00:00",14.0
+"21924","Terrible Ticks","Ramblin Rabbits","2019-06-17 16:25:00","Monday   ","mon_mid","2019-06-11 00:00:00",21.0
+"21597","Devilish Deer ","Intense Iguanas","2019-03-18 13:00:00","Monday   ","mon_early","2019-03-12 00:00:00",8.0
+"21846","Wonder Whales","Bellicose Bluejays","2019-05-13 13:00:00","Monday   ","mon_early","2019-05-07 00:00:00",16.0
+"50906","Devious Dandys","Earnest Eagles","2018-03-12 16:25:00","Monday   ","mon_mid","2018-03-06 00:00:00",7.0
+"21605","Terrible Ticks","Bellicose Bluejays","2019-03-18 16:05:00","Monday   ","mon_mid","2019-03-12 00:00:00",8.0
+"51024","Fleeting Felines","Hopeful Hens","2018-06-04 13:00:00","Monday   ","mon_early","2018-05-29 00:00:00",19.0
+"16484","Wonder Whales","Pirate Poodles","2018-05-01 20:15:00","Tuesday  ","tues","2018-05-01 00:00:00",15.0
+"50937","Earnest Eagles","Hungry Harpys","2018-04-02 13:00:00","Monday   ","mon_early","2018-03-27 00:00:00",10.0
+"16273","Lucky Leopards","Cyclic Cobras","2018-07-02 20:15:00","Monday   ","mon_late","2018-06-26 00:00:00",23.0
+"21611","Hungry Harpys","Fleeting Felines","2019-03-22 20:20:00","Friday   ","fri","2019-03-19 00:00:00",9.0
+"51011","Bellicose Bluejays","Hungry Harpys","2018-05-28 13:00:00","Monday   ","mon_early","2018-05-22 00:00:00",18.0
+"16276","Snappy Snakes","Lightning Lions","2018-07-01 13:05:00","Sunday   ","sun","2018-06-26 00:00:00",23.0
+"50966","Cyclic Cobras","Terrible Ticks","2018-04-23 13:00:00","Monday   ","mon_early","2018-04-17 00:00:00",13.0
+"16489","Wonder Whales","Cyclic Cobras","2018-06-18 13:00:00","Monday   ","mon_early","2018-06-12 00:00:00",21.0
+"21908","Ramblin Rabbits","Hungry Harpys","2019-06-10 16:05:00","Monday   ","mon_mid","2019-06-04 00:00:00",20.0
+"21904","Fleeting Felines","Devious Dandys","2019-06-10 13:00:00","Monday   ","mon_early","2019-06-04 00:00:00",20.0
+"50899","Hopeful Hens","Fleeting Felines","2018-03-12 13:00:00","Monday   ","mon_early","2018-03-06 00:00:00",7.0
+"16275","Hopeful Hens","Earnest Eagles","2018-07-02 13:05:00","Monday   ","mon_early","2018-06-26 00:00:00",23.0
+"51016","Devious Dandys","Lightning Lions","2018-05-28 13:00:00","Monday   ","mon_early","2018-05-22 00:00:00",18.0
+"21583","Lucky Leopards","Terrible Ticks","2019-03-11 13:00:00","Monday   ","mon_early","2019-03-05 00:00:00",7.0
+"21839","Terrible Ticks","Hungry Harpys","2019-05-13 16:05:00","Monday   ","mon_mid","2019-05-07 00:00:00",16.0
+"50954","Hungry Harpys","Cyclic Cobras","2018-04-16 13:00:00","Monday   ","mon_early","2018-04-10 00:00:00",12.0
+"63273","Devious Dandys","Lightning Lions","2020-03-02 13:00:00","Monday   ","mon_early","2020-02-25 00:00:00",6.0
+"16488","Wonder Whales","Terrible Ticks","2018-05-28 13:00:00","Monday   ","mon_early","2018-05-22 00:00:00",18.0
+"51026","Terrible Ticks","Lightning Lions","2018-06-04 16:05:00","Monday   ","mon_mid","2018-05-29 00:00:00",19.0
+"63287","Ramblin Rabbits","Devious Dandys","2020-03-09 16:25:00","Monday   ","mon_mid","2020-03-03 00:00:00",7.0
+"51056","Hungry Harpys","Earnest Eagles","2018-06-25 13:00:00","Monday   ","mon_early","2018-06-19 00:00:00",22.0
+"21627","Intense Iguanas","Terrible Ticks","2019-03-26 20:15:00","Tuesday  ","tues","2019-03-26 00:00:00",10.0
+"50931","Devilish Deer ","Terrible Ticks","2018-04-02 13:00:00","Monday   ","mon_early","2018-03-27 00:00:00",10.0
+"21900","Cyclic Cobras","Terrible Ticks","2019-06-11 17:00:00","Tuesday  ","tues","2019-06-11 00:00:00",21.0
+"50976","Fleeting Felines","Devious Dandys","2018-04-30 13:00:00","Monday   ","mon_early","2018-04-24 00:00:00",14.0
+"21786","Earnest Eagles","Hungry Harpys","2019-04-15 13:00:00","Monday   ","mon_early","2019-04-09 00:00:00",12.0
+"21933","Hungry Harpys","Devilish Deer ","2019-06-24 13:00:00","Monday   ","mon_early","2019-06-18 00:00:00",22.0
+"48718","Hopeful Hens","Lucky Leopards","2018-04-16 13:00:00","Monday   ","mon_early","2018-04-10 00:00:00",12.0
+"55503","Hungry Harpys","Terrible Ticks","2019-07-07 16:30:00","Sunday   ","sun","2019-07-02 00:00:00",24.0
+"21898","Bellicose Bluejays","Wonder Whales","2019-06-10 13:00:00","Monday   ","mon_early","2019-06-04 00:00:00",20.0
+"21946","Fleeting Felines","Lightning Lions","2019-07-01 13:00:00","Monday   ","mon_early","2019-06-25 00:00:00",23.0
+"21783","Hopeful Hens","Devilish Deer ","2019-04-15 13:00:00","Monday   ","mon_early","2019-04-09 00:00:00",12.0
+"51044","Devious Dandys","Hungry Harpys","2018-06-18 13:00:00","Monday   ","mon_early","2018-06-12 00:00:00",21.0
+"21921","Hungry Harpys","Earnest Eagles","2019-06-17 13:00:00","Monday   ","mon_early","2019-06-11 00:00:00",21.0
+"21576","Earnest Eagles","Devilish Deer ","2019-03-11 20:20:00","Monday   ","mon_late","2019-03-05 00:00:00",7.0
+"51045","Intense Iguanas","Ramblin Rabbits","2018-06-18 16:05:00","Monday   ","mon_mid","2018-06-12 00:00:00",21.0
+"88376","Devilish Deer ","Hungry Harpys","2019-07-22 15:00:00","Monday   ","mon_mid","2019-07-16 00:00:00",26.0
+"23181","Ramblin Rabbits","Bellicose Bluejays","2018-05-14 16:05:00","Monday   ","mon_mid","2018-05-08 00:00:00",16.0
+"22884","Earnest Eagles","Devilish Deer ","2018-03-20 20:15:00","Tuesday  ","tues","2018-03-20 00:00:00",9.0
+"22882","Lightning Lions","Wonder Whales","2018-03-19 16:05:00","Monday   ","mon_mid","2018-03-13 00:00:00",8.0
+"21777","Cyclic Cobras","Ramblin Rabbits","2019-04-12 20:20:00","Friday   ","fri","2019-04-09 00:00:00",12.0
+"50994","Fleeting Felines","Lucky Leopards","2018-05-14 13:00:00","Monday   ","mon_early","2018-05-08 00:00:00",16.0
+"21637","Intense Iguanas","Cyclic Cobras","2019-04-01 16:05:00","Monday   ","mon_mid","2019-03-26 00:00:00",10.0
+"51041","Hungry Harpys","Lucky Leopards","2018-06-12 20:15:00","Tuesday  ","tues","2018-06-12 00:00:00",21.0
+"21955","Earnest Eagles","Lucky Leopards","2019-07-01 13:00:00","Monday   ","mon_early","2019-06-25 00:00:00",23.0
+"21805","Lightning Lions","Hopeful Hens","2019-04-22 13:00:00","Monday   ","mon_early","2019-04-16 00:00:00",13.0
+"21820","Bellicose Bluejays","Devious Dandys","2019-04-29 13:00:00","Monday   ","mon_early","2019-04-23 00:00:00",14.0
+"64623","Terrible Ticks","Bellicose Bluejays","2018-06-17 20:15:00","Sunday   ","sun","2018-06-12 00:00:00",21.0
+"21829","Terrible Ticks","Devilish Deer ","2019-05-06 20:20:00","Monday   ","mon_late","2019-04-30 00:00:00",15.0
+"21604","Ramblin Rabbits","Wonder Whales","2019-03-18 16:05:00","Monday   ","mon_mid","2019-03-12 00:00:00",8.0
+"63530","Wonder Whales","Hungry Harpys","2020-03-16 13:00:00","Monday   ","mon_early","2020-03-10 00:00:00",8.0
+"51038","Earnest Eagles","Fleeting Felines","2018-06-11 13:00:00","Monday   ","mon_early","2018-06-05 00:00:00",20.0
+"16487","Wonder Whales","Ramblin Rabbits","2018-03-23 20:20:00","Friday   ","fri","2018-03-20 00:00:00",9.0
+"51039","Ramblin Rabbits","Snappy Snakes","2018-06-10 16:30:00","Sunday   ","sun","2018-06-05 00:00:00",20.0
+"50933","Devious Dandys","Fleeting Felines","2018-04-02 18:00:00","Monday   ","mon_mid","2018-03-27 00:00:00",10.0
+"21938","Intense Iguanas","Ramblin Rabbits","2019-06-24 16:05:00","Monday   ","mon_mid","2019-06-18 00:00:00",22.0
+"50988","Pirate Poodles","Earnest Eagles","2018-05-07 20:20:00","Monday   ","mon_late","2018-05-01 00:00:00",15.0
+"21902","Lightning Lions","Pirate Poodles","2019-06-09 20:15:00","Sunday   ","sun","2019-06-04 00:00:00",20.0
+"33708","Snappy Snakes","Earnest Eagles","2018-07-08 20:15:00","Sunday   ","sun","2018-07-03 00:00:00",24.0
+"21958","Terrible Ticks","Intense Iguanas","2019-07-01 20:20:00","Monday   ","mon_late","2019-06-25 00:00:00",23.0
+"50928","Terrible Ticks","Snappy Snakes","2018-03-26 16:25:00","Monday   ","mon_mid","2018-03-20 00:00:00",9.0
+"21797","Intense Iguanas","Pirate Poodles","2019-04-22 16:05:00","Monday   ","mon_mid","2019-04-16 00:00:00",13.0
+"21703","Earnest Eagles","Lightning Lions","2019-04-02 20:15:00","Tuesday  ","tues","2019-04-02 00:00:00",11.0
+"50939","Cyclic Cobras","Lightning Lions","2018-04-02 21:25:00","Monday   ","mon_late","2018-03-27 00:00:00",10.0
+"21880","Snappy Snakes","Pirate Poodles","2019-05-28 20:15:00","Tuesday  ","tues","2019-05-28 00:00:00",19.0
+"21916","Pirate Poodles","Snappy Snakes","2019-06-17 13:00:00","Monday   ","mon_early","2019-06-11 00:00:00",21.0
+"63209","Bellicose Bluejays","Pirate Poodles","2020-03-02 13:00:00","Monday   ","mon_early","2020-02-25 00:00:00",6.0
+"63290","Lightning Lions","Devilish Deer ","2020-03-16 13:00:00","Monday   ","mon_early","2020-03-10 00:00:00",8.0
+"63285","Lucky Leopards","Pirate Poodles","2020-03-09 13:00:00","Monday   ","mon_early","2020-03-03 00:00:00",7.0
+"16486","Wonder Whales","Bellicose Bluejays","2018-05-21 13:00:00","Monday   ","mon_early","2018-05-15 00:00:00",17.0
+"27385","Hopeful Hens","Snappy Snakes","2018-04-04 19:00:00","Wednesday","odd_days","2018-04-03 00:00:00",11.0
