@@ -34,16 +34,11 @@ The database has 4 tables:
 | event_id (primary_key) | VARCHAR   | Unique id given to the event           |
 | home_team              | VARCHAR   | The home team for the event            |
 | away_team              | VARCHAR   | The away team for the event            |
+| home_team_location     | VARCHAR   | Base city for the home team            |
+| away_team_location     | VARCHAR   | Base city for the away team            |
 | game_start_time        | TIMESTAMP | Start time of the event (EST)          |
 | week_start             | TIMESTAMP | Start time for this week of the season (EST) |
 | week_of_season         | FLOAT     | Week number of the season              |
-
-### `teams` (`SELECT * FROM teams`) - Data for where the Sportsball teams play
-
-| Column Name             | Data Type | Description                  |
-|-------------------------|-----------|------------------------------|
-| team_name (primary_key) | VARCHAR   | Name of the Sportsball team  |
-| location                | VARCHAR   | Home location for the team   |
 
 ### `users` (`SELECT * FROM users`) - User demographic data
 
@@ -76,7 +71,7 @@ The compose file also creates a Jupyter Server instance for you to use. You can 
 
 ### Adding to your environment
 We have taken the liberty of installing some basic DS packages in Jupyter for you (Pandas, Matplotlib, Scikit-learn, and Statsmodels). If you would like to install additional packages, add them to the `requirements.txt` file found in this repo.
-For the changes to take affect you will need to first kill any running services with `docker-compose down`. Then,simply rebuild and rerun the containers by first running `docker-compose build` and then `docker-compose up -d`
+For the changes to take affect you will need to first kill any running services with `docker-compose down`. Then, simply rebuild and rerun the containers by first running `docker-compose build` and then `docker-compose up -d`
 
 ### Code
 All code should be written in the provided `handle_forecast.ipynb` file.
