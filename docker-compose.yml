@@ -2,6 +2,7 @@ version: '3.7'
 services:
     postgres:
         build:
+          context: .
           dockerfile: Dockerfile
         restart: always
         container_name: local_pg
@@ -29,6 +30,7 @@ services:
           - pgadmin-data:/var/lib/pgadmin
     jupyter:
       build:
+        context: .
         dockerfile: Dockerfile.jupyter
       container_name: jupyter
       ports:
