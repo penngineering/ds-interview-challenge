@@ -7,6 +7,7 @@ CREATE TABLE schedule (
   game_start_time timestamp,
   day_of_week varchar,
   time_slot varchar,
+  game_day timestamp,
   week_start timestamp,
   week_of_season float
 );
@@ -23,8 +24,8 @@ CREATE TABLE users (
 COPY users FROM '/var/lib/postgresql/data/users.csv' csv header;
 
 CREATE TABLE wagers (
-  bet_id integer PRIMARY KEY,
-  user_umber varchar,
+  bet_id varchar PRIMARY KEY,
+  user_number varchar,
   event_id varchar,
   bet_offer_type varchar,
   wager_amount float,
@@ -41,4 +42,3 @@ COPY wagers FROM '/var/lib/postgresql/data/wagers.csv' csv header;
 UPDATE wagers SET wager_amount = ROUND(CAST(wager_amount as numeric), 2);
 
 UPDATE wagers SET payout = ROUND(CAST(payout as numeric), 2)
-

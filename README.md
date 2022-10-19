@@ -36,6 +36,9 @@ The database has 4 tables:
 | away_team              | VARCHAR   | The away team for the event            |
 | home_team_location     | VARCHAR   | Base city for the home team            |
 | away_team_location     | VARCHAR   | Base city for the away team            |
+| day_of_week            | VARCHAR   | day of the week ('Sunday' etc)         |
+| time_slot              | VARCHAR   | Categorical indicating time/day grouping     |
+| game_day               | TIMESTAMP | Game date (EST)                              |
 | game_start_time        | TIMESTAMP | Start time of the event (EST)          |
 | week_start             | TIMESTAMP | Start time for this week of the season (EST) |
 | week_of_season         | FLOAT     | Week number of the season              |
@@ -74,12 +77,22 @@ We have taken the liberty of installing some basic DS packages in Jupyter for yo
 For the changes to take affect you will need to first kill any running services with `docker-compose down`. Then, simply rebuild and rerun the containers by first running `docker-compose build` and then `docker-compose up -d`
 
 ### Code
-All code should be written in the provided `handle_forecast.ipynb` file.
+All code and the writeup should be written in the provided `handle_forecast.ipynb` file.
 
 # The Challenge
 
+The challenge is to predict the number of dollars wagered (a.k.a. "handle") on a Sportsball game.  Details are outlined in provided handle_forecast.ipynb file.  To do so, you will craft a sql query using pgAdmin to pull a feature set (some hints on useful features are provided in the text), and then build a data science model (or a couple of models if you like and there is time) to predict that handle.
+
 ### SQL stuff
-### model stuff
-### write-up stuff
+
+It is important that the SQL you use for your feature pull is included in the Jupyter notebook so that we can review it.  Before getting into the data and crafting your query, it may be worthwhile to review the "some tips" section.  You do not have to follow any of these tips if you don't want to or have a different approach, but they might be useful.
+
+### The Model
+
+You have free reign to develop any kind of model that you wish, given the time constraints and suitability to the problem.  We want to know how you approach a problem - let us know why you made the decision(s) you did.
+
+### Write-up
+
+This is the real meat of the challenge.  In the Jupyter notebook, let us know what you did, what you would have liked to do, and what kind of limitations and problems you encountered in the process.  How do you feel about the results?  If you had more time, how would you have liked to improve upon your model?
 
 # Submission
