@@ -92,7 +92,7 @@ All code and the writeup should be written in the provided `handle_forecast.ipyn
 
 # Challenge Structure
 
-THese three sections are noted in `handle_forecast.ipynb`
+These three sections are noted in `handle_forecast.ipynb`
 
 ### Part 1 - SQL Feature Pull
 
