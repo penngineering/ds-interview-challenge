@@ -112,4 +112,4 @@ This is the real meat of the challenge.  Using a Markdown cell in the Jupyter no
 
 Your submission will be assessed on the quality of the SQL and/or pandas used to prepare the feature set, EDA, creativity and relevancy of the feature engineering, appropriate use of data-preprocessing, choice of metrics, model performance, and overall quality / thought process of the writeup.
 
-When you have completed the challenge, you can email the `handle_forecast.ipynb` file back to the recruiter who sent it to you.
+When you have completed the challenge, rename the the .ipynb file to `<your-name>_handle_forecast.ipynb` and email back to the recruiter.
