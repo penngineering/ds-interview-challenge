@@ -1,14 +1,24 @@
-# Welcome!
+ # The Challenge
 
-something something
+Sportsball wagering provides a great source of entertainment for people in the country of Bettorvania.
+
+There are 16 teams in the Major Sportsball League and they are spread across 12 provinces. We currently provide wagering services for 4 of those provinces: Regensland, Alterburg, Vistatown, and Boroughsville.
+
+For this technical challenge we are asking you to deliver a model which can predict the number of dollars wagered (a.k.a. "handle") on the matches in week 12 of the 2020 season. To do so, you will craft a sql query using pgAdmin to pull a feature set (some hints on useful features are provided in the text), then build a data science model (or a couple of models if you like and there is time) to predict that handle.
+
+This problem is simplified for the sake of time but is representative of actual project work that we do here at Penn Interactive/TheScore Bet.
+
+Please do not spend more than 4 hours on this challenge. Dont let this take up your whole weekend. We understand that you could likely spend days on this, but we are more interested in seeing your thought process than the actual final model. If you find yourself getting close to time, focus on providing insights into your thoughts in the write-up portion.
 
 ### Requirements
 
 To complete this challenge, you will need docker and docker-compose installed on your computer.
 
-# The Problem
+If you do not already have these tools, we recommend using Docker Desktop:
 
-Sportsball Sportsball finance finance
+* Mac: https://docs.docker.com/desktop/install/mac-install/
+* Windows: https://docs.docker.com/desktop/install/windows-install/
+* Linux: https://docs.docker.com/desktop/install/linux-install/
 
 # Setup
 
@@ -77,22 +87,29 @@ We have taken the liberty of installing some basic DS packages in Jupyter for yo
 For the changes to take affect you will need to first kill any running services with `docker-compose down`. Then, simply rebuild and rerun the containers by first running `docker-compose build` and then `docker-compose up -d`
 
 ### Code
+
 All code and the writeup should be written in the provided `handle_forecast.ipynb` file.
 
-# The Challenge
+# Challenge Structure
 
-The challenge is to predict the number of dollars wagered (a.k.a. "handle") on a Sportsball game.  Details are outlined in provided handle_forecast.ipynb file.  To do so, you will craft a sql query using pgAdmin to pull a feature set (some hints on useful features are provided in the text), and then build a data science model (or a couple of models if you like and there is time) to predict that handle.
+THese three sections are noted in `handle_forecast.ipynb`
 
-### SQL stuff
+### Part 1 - SQL Feature Pull
 
-It is important that the SQL you use for your feature pull is included in the Jupyter notebook so that we can review it.  Before getting into the data and crafting your query, it may be worthwhile to review the "some tips" section.  You do not have to follow any of these tips if you don't want to or have a different approach, but they might be useful.
+We are interested in seeing your ability to use SQL to create feature sets based on data from multiple tables. What those features are, is entirely up to you.
 
-### The Model
+It is important that the SQL you use for your feature pull is included in the Jupyter notebook so that we can review it.  Before getting into the data and crafting your query, it may be worthwhile to review the "some tips" section in the Jupyter notebook.  You do not have to follow any of these tips if you don't want to or have a different approach, but they might be useful.
+
+### Part 2 - The Model
 
 You have free reign to develop any kind of model that you wish, given the time constraints and suitability to the problem.  We want to know how you approach a problem - let us know why you made the decision(s) you did.
 
-### Write-up
+### Part 3 - Write-up
 
-This is the real meat of the challenge.  In the Jupyter notebook, let us know what you did, what you would have liked to do, and what kind of limitations and problems you encountered in the process.  How do you feel about the results?  If you had more time, how would you have liked to improve upon your model?
+This is the real meat of the challenge.  Using a Markdown cell in the Jupyter notebook, let us know what you did, what you would have liked to do, and what kind of limitations and problems you encountered in the process.  How do you feel about the results?  If you had more time, how would you have liked to improve upon your model?
 
 # Submission
+
+Your submission will be assessed on the quality of the SQL and/or pandas used to prepare the feature set, EDA, creativity and relevancy of the feature engineering, appropriate use of data-preprocessing, choice of metrics, model performance, and overall quality / thought process of the writeup.
+
+When you have completed the challenge, you can email the `handle_forecast.ipynb` file back to the recruiter who sent it to you.
