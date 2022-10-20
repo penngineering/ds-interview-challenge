@@ -35,7 +35,7 @@ Connection Details:
 * user: `postgres`
 * password `postgres`
 
-The database has 4 tables:
+The database has 3 tables:
 
 ### `schedule` (`SELECT * FROM schedule`) - Data for the Sportsball event schedule
 
