@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook
+FROM --platform=linux/amd64 jupyter/base-notebook
 
 COPY requirements.txt .
 
