@@ -1,3 +1,3 @@
-FROM --platform=linux/amd64 postgres:14
+FROM postgres:11
 
 COPY data /var/lib/postgresql/data
