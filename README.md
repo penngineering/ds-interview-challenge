@@ -96,20 +96,20 @@ These three sections are noted in `handle_forecast.ipynb`
 
 ### Part 1 - SQL Feature Pull
 
-We are interested in seeing your ability to use SQL to create feature sets based on data from multiple tables. What those features are, is entirely up to you.
+We are interested in seeing your ability to use SQL to create feature sets based on data from multiple tables. What those features are is entirely up to you.
 
 It is important that the SQL you use for your feature pull is included in the Jupyter notebook so that we can review it.  Before getting into the data and crafting your query, it may be worthwhile to review the "some tips" section in the Jupyter notebook.  You do not have to follow any of these tips if you don't want to or have a different approach, but they might be useful.
 
 ### Part 2 - The Model
 
-You have free reign to develop any kind of model that you wish, given the time constraints and suitability to the problem.  We want to know how you approach a problem - let us know why you made the decision(s) you did.
+You have free reign to develop any kind of model that you wish, given the time constraints and suitability to the problem.  Most importantly, we want to know how you approach a problem - let us know why you made the decision(s) you did.
 
 ### Part 3 - Write-up
 
-This is the real meat of the challenge.  Using a Markdown cell in the Jupyter notebook, let us know what you did, what you would have liked to do, and what kind of limitations and problems you encountered in the process.  How do you feel about the results?  If you had more time, how would you have liked to improve upon your model?
+This is the real meat of the challenge.  Using markdown cells in the Jupyter notebook, let us know what you did, what you would have liked to do, and what kind of limitations and problems you encountered in the process.  How do you feel about the results?  If you had more time, how would you have liked to improve upon your model?
 
 # Submission
 
-Your submission will be assessed on the quality of the SQL and/or pandas used to prepare the feature set, EDA, creativity and relevancy of the feature engineering, appropriate use of data-preprocessing, choice of metrics, model performance, and overall quality / thought process of the writeup.
+Your submission will be assessed on the quality of the SQL and/or pandas used to prepare the feature set, EDA, creativity and relevancy of the feature engineering, appropriate use of data-preprocessing, choice of metrics, model performance, and *overall quality / thought process shown in the writeup*.
 
 When you have completed the challenge, rename the the .ipynb file to `<your-name>_handle_forecast.ipynb` and email back to the recruiter.
