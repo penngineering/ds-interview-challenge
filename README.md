@@ -8,7 +8,7 @@ For this technical challenge we are asking you to deliver a model which can pred
 
 This problem is simplified for the sake of time but is representative of actual project work that we do here at Penn Interactive/TheScore Bet.
 
-Please do not spend more than 4 hours on this challenge. Dont let this take up your whole weekend. We understand that you could likely spend days on this, but we are more interested in seeing your thought process than the actual final model. If you find yourself getting close to time, focus on providing insights into your thoughts in the write-up portion.
+Please do not spend more than 4 hours on this challenge. Don't let this take up your whole weekend. We understand that you could likely spend days on this, but we are more interested in seeing your thought process than the actual final model. If you find yourself getting close to time, focus on providing insights into your thoughts in the write-up portion.
 
 ### Requirements
 
@@ -26,7 +26,7 @@ We've provided a `docker-compose.yml` file which will create everything you need
 
 ## The Database
 
-After `docker-compose up -d` has finished, you will have access to a Postgres Database and PGAdmin to play around with the data. To access PGAdmin, navigate to `localhost:5050` in your web browser. From here, you will need to configure a connection to the the server. You can do this by selecting "Add New Server" from the dashboard.
+After `docker-compose up -d` has finished, you will have access to a Postgres Database and PGAdmin to play around with the data. To access PGAdmin, navigate to `localhost:5050` in your web browser. From here, you will need to configure a connection to the the server. You can do this by selecting "Add New Server" from the dashboard.sa
 
 Connection Details:
 
