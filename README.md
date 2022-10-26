@@ -37,7 +37,7 @@ Connection Details:
 
 The database has 3 tables:
 
-### `schedule` (`SELECT * FROM schedule`) - Data for the Sportsball event schedule
+### `events` (`SELECT * FROM events`) - Data for the Sportsball events
 
 | Column Name            | Data Type | Description                            |
 |------------------------|-----------|----------------------------------------|
@@ -59,7 +59,7 @@ The database has 3 tables:
 |---------------------------|-----------|---------------------------------------------|
 | user_number (primary_key) | VARCHAR   | Unique identifier for the user              |
 | age                       | FLOAT     | User age in years                           |
-| registration_date         | TIMESTAMP | Date the user registered for the sportsbook (EST)|
+| registration_timestamp    | TIMESTAMP | Datetime the user registered for the sportsbook (EST)|
 | location                  | VARCHAR   | Where the user resides                      |
 
 ### `wagers` (`SELECT * FROM wagers`) - Data on the individual wagers placed on Sportsball games

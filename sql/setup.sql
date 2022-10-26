@@ -1,4 +1,4 @@
-CREATE TABLE schedule (
+CREATE TABLE events (
   event_id varchar PRIMARY KEY,
   home_team varchar,
   away_team varchar,
@@ -12,12 +12,12 @@ CREATE TABLE schedule (
   week_of_season float
 );
 
-COPY schedule FROM '/var/lib/postgresql/data/schedule.csv' csv header;
+COPY events FROM '/var/lib/postgresql/data/events.csv' csv header;
 
 CREATE TABLE users (
   user_number varchar PRIMARY KEY,
   age float,
-  registration_date timestamp,
+  registration_timestamp timestamp,
   location varchar
 );
 
