@@ -22,7 +22,7 @@ If you do not already have these tools, we recommend using Docker Desktop:
 
 # Setup
 
-We've provided a `docker-compose.yml` file which will create everything you need to complete this challenge. To setup your environment, simply run `docker-compose up -d` from your Command Prompt/Terminal. This may take a minute to finish running, especially if it's your first time running it.
+We've provided a `docker-compose.yml` file which will create everything you need to complete this challenge. To setup your environment, simply navigate in your Command Prompt/Terminal to the directory where you unpacked these files and run `docker-compose up -d`. This may take a minute to finish running, especially if it's your first time running it.
 
 ## The Database
 
